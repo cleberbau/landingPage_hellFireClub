@@ -27,4 +27,6 @@ Manipulação do DOM
 Introdução ao Firebase
 Integração com o Firebase
 
+[ 👉🏾 Acesse o projeto](https://cleberbau.github.io/landingPage_hellFireClub/)
+
 ![DIO PRO](https://user-images.githubusercontent.com/97200642/188999164-3ceb734f-222f-439c-a71c-9796686d755f.jpg)
